@@ -1,0 +1,12 @@
+# dependencies
+/node_modules/
+/config/
+
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+.env.test
+.env*.local
