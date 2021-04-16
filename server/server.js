@@ -6,8 +6,6 @@ import morgan from "morgan";
 
 import connectDB from "./config/db.js";
 
-const __dirname = path.resolve();
-
 dotenv.config({ path: "./config/config.env" });
 
 connectDB();
